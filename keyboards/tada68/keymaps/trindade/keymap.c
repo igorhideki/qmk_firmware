@@ -18,7 +18,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
    * |----------------------------------------------------------------|
    * |Shift   |  Z|  X|  C|  V|  B|  N|  M|  ,|  .|  /|Shift | Up|PgDn|
    * |----------------------------------------------------------------|
-   * |Ctrl|Alt |Win |        Space          |Win| FN|Alt |Lef|Dow|Rig |
+   * |Ctrl|Alt |OS  |        Space          |OS | FN|Alt |Lef|Dow|Rig |
    * `----------------------------------------------------------------'
    */
 [_BL] = LAYOUT_ansi(
